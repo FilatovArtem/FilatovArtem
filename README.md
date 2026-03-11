@@ -25,6 +25,13 @@
 
 ---
 
+## Production
+
+- **[ISTINA](https://istina.msu.ru)** — scientometric system of MSU (100M+ records, 100K+ users). Contributed to backend and frontend development
+- **[EGISU NIOКTR](https://gisnauka.ru)** — federal R&D accounting system. Contributed to fullstack development
+
+---
+
 ## Projects
 
 | Project | Description | Stack |
