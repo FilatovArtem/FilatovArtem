@@ -3,7 +3,7 @@
 **Fullstack Developer — Python & React**
 
 [![Email](https://img.shields.io/badge/-filatov.o.artem.work@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:filatov.o.artem.work@gmail.com)
-[![Telegram](https://img.shields.io/badge/-@Siki__sing-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Siki_sing)
+[![Telegram](https://img.shields.io/badge/-@sikisingg-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/sikisingg)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FilatovArtem/FilatovArtem/output/github-contribution-grid-snake-dark.svg" />
