@@ -1,39 +1,14 @@
-# Hey, I'm Artem 👋
+# Hi, I'm Artem
 
-**Fullstack Developer — Python & React**
+I build web apps with Python, Django, Vue and TypeScript. I also build LLM features and use coding agents in my development workflow.
 
-[![Email](https://img.shields.io/badge/-filatov.o.artem.work@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:filatov.o.artem.work@gmail.com)
-[![Telegram](https://img.shields.io/badge/-@sikisingg-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/sikisingg)
+## Selected projects
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FilatovArtem/FilatovArtem/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FilatovArtem/FilatovArtem/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/FilatovArtem/FilatovArtem/output/github-contribution-grid-snake.svg" />
-</picture>
+- [**FoodGen**](https://food-gen.ru/) is a web app for planning meals and building a grocery list. I'm currently its sole developer and handle the backend, frontend and releases. I set up a workflow where coding agents open pull requests and reviewed changes merge into the development branch after CI passes.
+- **Sova** is a marketplace for food nearing its expiration date. I develop its Rust backend, including order processing and background jobs in PostgreSQL.
+- [**Modal System**](https://github.com/FilatovArtem/mws-modal-system) is a Vue 3 and TypeScript solution to an MWS Cloud Platform test assignment. It includes a stack of dialogs, keyboard focus management and four local demos.
+- [**SweetDream Bot**](https://github.com/FilatovArtem/telegram-bot-business-card) is a Python demo of a Telegram catalog and booking flow for a fictional bakery.
 
----
+## Contact
 
-## Stack
-
-**Backend:** Python · Django · DRF · FastAPI · Celery
-
-**Frontend:** React · Vue.js · TypeScript · JavaScript
-
-**Data:** PostgreSQL · Redis · Elasticsearch
-
-**Infra:** Docker · Nginx · Linux · Git
-
----
-
-## Production
-
-- **[ISTINA](https://istina.msu.ru)** — scientometric system of MSU (100M+ records, 100K+ users). Contributed to backend and frontend development
-- **[EGISU NIOКTR](https://gisnauka.ru)** — federal R&D accounting system. Contributed to fullstack development
-
----
-
-## Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [telegram-bot-business-card](https://github.com/FilatovArtem/telegram-bot-business-card) | Telegram bot for small business: product catalog, booking (FSM), admin panel | Python · aiogram 3 · SQLAlchemy 2 · Docker |
+[Telegram](https://t.me/sikisingg) · [Email](mailto:filatov.o.artem.work@gmail.com)
